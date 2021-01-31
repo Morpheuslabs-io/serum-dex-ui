@@ -2,9 +2,19 @@
 
 An implementation of a UI for the Serum DEX.
 
+===================
+
+Morpheus Labs forked this the source code from Serum as a reference source of the DEX based on Solana blockchain. Users can explore, modify and test on Morpheus Labs SEED platform.
+
+Since this is a GNU License, for SEED platform users or any users who need to fork or clone this Serum source code need to explicitly fork from this repo.
+
+===================
+
 ### Running the UI
 
 Run `yarn` to install dependencies, then run `yarn start` to start a development server or `yarn build` to create a production build that can be served by a static file server.
+
+**Listenning port** is `3000`
 
 ### Collect referral fees
 
